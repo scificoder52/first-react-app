@@ -1,0 +1,22 @@
+.appName {
+  font-weight: 900;
+  color: rebeccapurple;
+  font-size: 40px;
+  margin: 10px;
+  margin-bottom: 25px;
+}
+
+input{
+  width: 100%;
+}
+
+.item-container{
+  text-align: left;
+}
+
+.kg-row{
+  margin: 10px;
+}
+.kg-button{
+  min-width: 92px;
+}
